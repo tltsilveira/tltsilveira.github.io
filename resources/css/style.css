@@ -113,7 +113,7 @@ a:hover {
  p{
 /*     margin-top: 10px; */
     text-align: justify;
-    text-justify: inter-word;
+    text-justify: inter-character;
 /*     padding: 1px; */
 }
 
