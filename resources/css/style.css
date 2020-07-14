@@ -58,6 +58,7 @@ li{
   flex-flow: row wrap;
   justify-content: space-between;
   padding: 10px;
+  border: 0px;
 }
 
 /* to center flex-items */
