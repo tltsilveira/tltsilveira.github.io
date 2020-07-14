@@ -16,7 +16,7 @@ section {
 
 #mainNav{  
     background-color:#F00;  /*whichever you want*/
-    opacity: 0.975;           /*0.5 determines transparency value*/ 
+    opacity: 0.97;           /*0.5 determines transparency value*/ 
     filter:(opacity=50);       
 }
 
