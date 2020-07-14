@@ -34,7 +34,7 @@ dt, dl, dd{
 }
 
 dt{
-  font-weight: normal;
+  /*font-weight: normal;*/
 }
 
 dd > p{
