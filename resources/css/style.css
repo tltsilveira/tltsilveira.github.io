@@ -14,6 +14,12 @@ section {
   padding: 0px 10px 40px 10px;
 }
 
+#mainNav{  
+    background-color:#F00;  /*whichever you want*/
+    opacity: 0.95;           /*0.5 determines transparency value*/ 
+    filter:(opacity=50);       
+}
+
 a {
     color: #2d2d2d;
     text-decoration: none;
