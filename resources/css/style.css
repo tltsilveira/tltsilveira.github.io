@@ -71,3 +71,7 @@ li{
 .flex-item {
    margin: auto;
 }
+
+ h3 + ul {
+  margin-top: 20px;
+}
