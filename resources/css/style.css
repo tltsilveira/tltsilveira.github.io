@@ -4,6 +4,11 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
 
+img {
+  image-rendering: pixelated;
+}
+
+
 header {
   color: #515151;
   padding: 96px 0px 40px 0px;
