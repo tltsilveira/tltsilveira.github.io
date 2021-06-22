@@ -36,6 +36,10 @@ img {
    color:#00D0AF;
 }
 
+.fa-twitter:hover{
+   color:#00A2F5;
+}
+
 header {
   color: #515151;
   padding: 96px 0px 40px 0px;
