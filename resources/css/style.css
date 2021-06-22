@@ -8,9 +8,32 @@ img {
   image-rendering: crisp-edges;
 }
 
-
 .fa-envelope:hover{
-    color: red;
+    color: #EA4335;
+}
+
+.ai-lattes:hover{
+   color: #2C2B64;
+}
+
+.ai-google-scholar:hover{
+   color:#4285F4;
+}
+
+.ai-orcid:hover{
+   color:#A6CE39;
+}
+
+.fa-facebook:hover{
+   color:#1877F2;
+}
+
+.fa-linkedin:hover{
+   color:#0077B7;
+}
+
+.ai-researchgate:hover{
+   color:#00D0AF;
 }
 
 header {
