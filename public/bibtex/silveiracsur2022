@@ -1,0 +1,10 @@
+@article{silveira:csur2022,
+  doi = {10.1145/3519021},
+  url = {https://doi.org/10.1145/3519021},
+  year = {2022},
+  note = {Just Accepted},
+  publisher = {Association for Computing Machinery ({ACM})},
+  author = {Thiago L. T. da Silveira and Paulo G. L. Pinto and Jeffri Murrugarra-Llerena and Cl{\'{a}}udio R. Jung},
+  title = {3D Scene Geometry Estimation from 360{\textdegree}~Imagery: A Survey},
+  journal = {{ACM} Computing Surveys}
+}
