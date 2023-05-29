@@ -1,0 +1,11 @@
+@article{silveira:cag2023,
+title = {Omnidirectional visual computing: Foundations, challenges, and applications},
+journal = {Computers & Graphics},
+year = {2023},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2023.05.011},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849323000663},
+author = {Thiago L.T. {da Silveira} and Cláudio R. Jung},
+keywords = {360°images, Spherical images, Omnidirectional images, Panoramas},
+abstract = {Omnidirectional images and videos are widespread due to the popularization of devices for capturing and visualization. Unlike pinhole-based imagery, omnidirectional media lie on the surface of a sphere, have a 360° × 180°field of view, and store the light intensities from an entire environment. Notably, applications involving immersive augmented, mixed, and virtual reality experiences benefit from the 360° content. Although defined on the spherical domain, omnidirectional images are often mapped to a (multi-)planar representation, which results in distorted images and degrades the performance of most traditional visual computing algorithms designed to work on the plane. This paper reviews the spherical camera model, the most common capturing devices, and popular (multi-)planar representations of omnidirectional media. It also approaches the main challenges of omnidirectional visual computing, focusing on the deep learning paradigm, and tackles four visual computing applications that strongly explore the potential of omnidirectional imagery.}
+}
