@@ -1,0 +1,7 @@
+@article{balreira:tvc2024,
+  author = {Balreira, Dennis G. and da Silveira, Thiago L. T.},
+  title = {Triangular matrix-based lossless compression algorithm for 3D mesh connectivity},
+  year = {2024},
+  doi = {10.1007/s00371-024-03400-8},
+  journal = {The Visual Computer}
+}
