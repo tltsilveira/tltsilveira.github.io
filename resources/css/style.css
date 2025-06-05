@@ -4,6 +4,9 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
 
+body{
+  font-family: 'Montserrat';
+}
 img {
   image-rendering: crisp-edges;
 }
